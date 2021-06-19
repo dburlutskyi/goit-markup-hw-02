@@ -101,6 +101,7 @@ body {
   /* identical to box height, or 162% */
   text-align: center;
   letter-spacing: 0.03em;
+  cursor: pointer;
 
   color: #212121;
 }
@@ -117,9 +118,9 @@ body {
 .logo-text-footer {
   font-family: var(--secondary-font);
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1, 19;
   /* identical to box height */
   letter-spacing: 0.03em;
   color: #000000;
@@ -132,11 +133,9 @@ body {
 }
 
 .footer-contacts {
-  font-family: Roboto;
   font-style: normal;
-  font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1, 71;
   /* or 171% */
   letter-spacing: 0.03em;
 
