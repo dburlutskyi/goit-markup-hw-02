@@ -2,6 +2,7 @@
   --main-font: "Roboto", sans-serif;
   --secondary-font: "Raleway", sans-serif;
   --accent-color: #2196f3;
+  
 }
 .list {
   list-style: none;
@@ -31,7 +32,7 @@ body {
   color: #2196f3;
 }
 
-.menu-link {
+.menu-link{
   font-weight: 500;
   font-size: 14px;
   line-height: 0, 88;
@@ -40,10 +41,15 @@ body {
   color: #212121;
 }
 
-.menu-link:hover,
-.menu-link:focus {
+.menu-link.current{
   color: var(--accent-color);
 }
+.menu-link:hover,
+.menu-link:focus{
+  color: var(--accent-color)
+}
+
+
 
 .header-contacts {
   font-weight: 500;
@@ -124,7 +130,7 @@ body {
   /* identical to box height */
   letter-spacing: 0.03em;
   color: #000000;
-  /*color: #FFFFFF*/
+  /*color: #FFFFFF*/  
 }
 
 .footer-adress-color {
