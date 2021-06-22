@@ -97,7 +97,24 @@ body {
   color: #ffffff;
 }
 
+
+
 /*====END HEROUS====*/
+
+/*====FEATURES SECTION====*/
+
+.features-title{
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #212121;
+
+}
+
+/*====END FEATURES SECTION====*/
 
 /*==PORTFOLIO MAIN==*/
 .portfolio-list-btn {
