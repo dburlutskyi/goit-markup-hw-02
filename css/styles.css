@@ -138,6 +138,11 @@ color: #212121;
 
 /*Footer*/
 
+.footer-bg{
+ background: #2F303A
+}
+
+
 .logo-text-footer {
   font-family: var(--secondary-font);
   font-style: normal;
