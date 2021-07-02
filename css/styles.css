@@ -156,8 +156,14 @@ color: #212121;
 }
 
 .footer-adress-color {
-  /*color: #FFFFFF*/
-  color: #000000;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
+
 }
 
 .footer-contacts {
