@@ -157,7 +157,12 @@ color: #212121;
 
 .footer-adress-color {
   font-style: normal;
-  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+
+  color: #ffffff;
 
 }
 
