@@ -156,8 +156,9 @@ color: #212121;
 }
 
 .footer-adress-color {
-  /*color: #FFFFFF*/
-  color: #000000;
+  font-style: normal;
+  color: #FFFFFF;
+
 }
 
 .footer-contacts {
